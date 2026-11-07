@@ -33,6 +33,17 @@ I turn raw data into clear dashboards and insights using **Python, SQL and Power
 | [StyleKart](https://github.com/shubhamsharma1031/fashion-ecommerce-website) | Fashion store front end with filters, bag and wishlist | HTML, CSS, JavaScript |
 | [Web Toolkit](https://github.com/shubhamsharma1031/web-toolkit) | Six browser utilities in one page | HTML, CSS, JavaScript |
 
+## 🖼 Project gallery
+
+<p>
+  <a href="https://github.com/shubhamsharma1031/sales-trend-analyzer"><img src="https://raw.githubusercontent.com/shubhamsharma1031/sales-trend-analyzer/main/docs/cover.png" width="49%" alt="Sales Trend Analyzer"></a>
+  <a href="https://github.com/shubhamsharma1031/weather-dashboard"><img src="https://raw.githubusercontent.com/shubhamsharma1031/weather-dashboard/main/docs/cover.png" width="49%" alt="India Weather Dashboard"></a>
+  <a href="https://github.com/shubhamsharma1031/flight-booking-system"><img src="https://raw.githubusercontent.com/shubhamsharma1031/flight-booking-system/main/docs/cover.png" width="49%" alt="Flight Booking System"></a>
+  <a href="https://github.com/shubhamsharma1031/fashion-ecommerce-website"><img src="https://raw.githubusercontent.com/shubhamsharma1031/fashion-ecommerce-website/main/docs/cover.png" width="49%" alt="StyleKart"></a>
+  <a href="https://github.com/shubhamsharma1031/web-toolkit"><img src="https://raw.githubusercontent.com/shubhamsharma1031/web-toolkit/main/docs/cover.png" width="49%" alt="Web Toolkit"></a>
+  <a href="https://github.com/shubhamsharma1031/portfolio"><img src="https://raw.githubusercontent.com/shubhamsharma1031/portfolio/main/docs/cover.png" width="49%" alt="Portfolio"></a>
+</p>
+
 ## 📜 Certifications (2025)
 
 Generative AI (Microsoft) · Data Analytics · Web Development · Programming (Python, C, C++, Java)
