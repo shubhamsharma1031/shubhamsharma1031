@@ -46,4 +46,4 @@ I turn raw data into clear dashboards and insights using **Python, SQL and Power
 
 ## 📜 Certifications (2025)
 
-Generative AI (Microsoft) · Data Analytics · Web Development · Programming (Python, C, C++, Java)
+Career Essentials in Generative AI (Microsoft & LinkedIn) · Data Analytics · Web Development · Programming (Python, C, C++, Java)
