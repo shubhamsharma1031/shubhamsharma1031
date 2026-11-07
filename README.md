@@ -7,7 +7,7 @@ I turn raw data into clear dashboards and insights using **Python, SQL and Power
 - 🔭 Building end-to-end data projects: cleaning → SQL analysis → Power BI dashboards
 - 🌱 Currently improving: advanced SQL, DAX and statistics
 - 💼 Open to **Data Analyst / BI Analyst** roles
-- 📫 [LinkedIn](https://www.linkedin.com/in/shubham-sharma-27aa38268) · [Portfolio](https://shubhamsharma1031.netlify.app/) · shubhamkhandal1031@gmail.com
+- 📫 [LinkedIn](https://www.linkedin.com/in/shubhamsharma1031) · [Portfolio](https://shubhamsharma1031.netlify.app/) · shubhamkhandal1031@gmail.com
 
 ## 🛠 Skills
 
