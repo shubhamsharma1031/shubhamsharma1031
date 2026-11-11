@@ -2,7 +2,7 @@
 
 **Data Analyst** · B.Tech in Computer Science (2026)
 
-I turn raw data into clear dashboards and insights using **Python, SQL and Power BI**. I've worked full-time in technical operations at Fingertips Data Intelligence Solutions and completed a Data Analyst internship at Celebal Technologies.
+I turn raw data into clear dashboards and insights using **Python, SQL and Power BI**. I've worked full-time in technical operations at Fingertips Data Intelligence Solutions and completed a Data Analyst internship at Celebal Technologies. As a freelancer I also build WordPress websites with custom admin panels.
 
 - 🔭 Building end-to-end data projects: cleaning → SQL analysis → Power BI dashboards
 - 🌱 Currently improving: advanced SQL, DAX and statistics
@@ -22,6 +22,7 @@ I turn raw data into clear dashboards and insights using **Python, SQL and Power
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
 ## 📊 Featured projects
 
@@ -31,11 +32,13 @@ I turn raw data into clear dashboards and insights using **Python, SQL and Power
 | [India Weather Dashboard](https://github.com/shubhamsharma1031/weather-dashboard) | ETL pipeline from a public API, unit tests, MySQL upserts | Python, API, MySQL, Power BI |
 | [Flight Booking System](https://github.com/shubhamsharma1031/flight-booking-system) | JDBC app with transactions and row locking | Java, MySQL |
 | [StyleKart](https://github.com/shubhamsharma1031/fashion-ecommerce-website) | Fashion store front end with filters, bag and wishlist | HTML, CSS, JavaScript |
+| [D to D Studio](https://github.com/shubhamsharma1031/d2d-studio-website) · [live](https://mywindoows.online/) | Freelance: 21-page agency website + custom admin panel (roles, secure login, leads, audit log) | WordPress, PHP, JavaScript |
 | [Web Toolkit](https://github.com/shubhamsharma1031/web-toolkit) | Six browser utilities in one page | HTML, CSS, JavaScript |
 
 ## 🖼 Project gallery
 
 <p>
+  <a href="https://github.com/shubhamsharma1031/d2d-studio-website"><img src="https://raw.githubusercontent.com/shubhamsharma1031/d2d-studio-website/main/docs/cover.png" width="98%" alt="D to D Studio website and admin panel"></a>
   <a href="https://github.com/shubhamsharma1031/sales-trend-analyzer"><img src="https://raw.githubusercontent.com/shubhamsharma1031/sales-trend-analyzer/main/docs/cover.png" width="49%" alt="Sales Trend Analyzer"></a>
   <a href="https://github.com/shubhamsharma1031/weather-dashboard"><img src="https://raw.githubusercontent.com/shubhamsharma1031/weather-dashboard/main/docs/cover.png" width="49%" alt="India Weather Dashboard"></a>
   <a href="https://github.com/shubhamsharma1031/flight-booking-system"><img src="https://raw.githubusercontent.com/shubhamsharma1031/flight-booking-system/main/docs/cover.png" width="49%" alt="Flight Booking System"></a>
